@@ -16,7 +16,10 @@ The starter project of the class, implemented as a static website, serves as an 
 
 ## Screenshot
 
-![alt text](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screencapture-aboutme.png)
+![alt Main](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screenshot-main.png)
+![alt aboutMe](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screencapture-aboutme.png)
+![alt Education](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screencapture-file-Volumes-ExtremeSSD-Learning-cs5610-cs5610sv22f-cs5610sv22f-p1-project1-education-html-2022-09-26-11_00_11.png)
+![alt Experience](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screencapture-file-Volumes-ExtremeSSD-Learning-cs5610-cs5610sv22f-cs5610sv22f-p1-project1-experience-html-2022-09-26-11_00_36.png)
 
 ## Instructions to build
 

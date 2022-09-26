@@ -16,6 +16,7 @@ The starter project of the class, implemented as a static website, serves as an 
 
 ## Screenshot
 
+![alt text](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screencapture-aboutme.png)
 
 ## Instructions to build
 

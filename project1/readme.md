@@ -16,6 +16,7 @@ The starter project of the class, implemented as a static website, serves as an 
 
 ## Screenshot
 
+
 ## Instructions to build
 
 The project consists of 3 html pages with a navigation bar to link to all others.

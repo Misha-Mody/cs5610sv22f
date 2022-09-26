@@ -1,6 +1,6 @@
 body {
     font-family: Roboto, sans-serif;
-    background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+    background-image: url('../images/1567832.jpeg');
   }
   
   header {
@@ -24,7 +24,7 @@ body {
   }
   
   a {
-    padding: 0 20px;
+    padding: 0 18px;
     margin: 0;
   }
 
@@ -33,7 +33,7 @@ body {
   .jumbotron {
     display: flex;
     align-items: center;
-    background-image: url('https://content.codecademy.com/projects/personal_portfolio/background.jpeg');
+    background-image: url('../images/hd-wallpaper-g7fc48e3d1_1920.jpeg');
     background-size: cover;
     color: #ffffff;
     height: 400px;

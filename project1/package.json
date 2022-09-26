@@ -1,0 +1,12 @@
+{
+    "name": "static-website",
+    "version": "1.0.0",
+    "description": "First projcet of cs5610, a static website",
+    "main": "index.js",
+
+    "author": "Yuanxun Qin",
+    "license": "MIT",
+    "devDependencies": {
+        "bootstrap": "^4.3.1"
+    }
+}

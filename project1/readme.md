@@ -14,6 +14,10 @@ Yuanxun Qin
 
 The starter project of the class, implemented as a static website, serves as an indroduction to html/css/js and website basics.
 
+## Design Document
+
+<https://docs.google.com/document/d/18T-cxY8lG1FCl6TL1V9Qd4Jq2qn-6UKF162qg3_tt1Q/edit?usp=sharing>
+
 ## Screenshot
 
 ![alt Main](https://github.com/timothyq/cs5610sv22f/blob/main/project1/images/screenshot-main.png)

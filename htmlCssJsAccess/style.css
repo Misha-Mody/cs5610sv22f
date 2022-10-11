@@ -1,0 +1,70 @@
+/* *{
+    border: solid red;
+} */
+
+
+h1#BasicInfo{
+    position: absolute;
+    top: 0px;
+}
+#BasicInfo {
+    position: relative;
+    /* top: 10px; */
+    background-color: #fff;
+    /* margin: auto; */
+}
+#BasicInfo h2{
+    top: 50px; left: 40px;
+}
+
+.smallImage {
+    max-width: 250px;
+    max-height: 200px;
+    margin: 3px;
+}
+
+.largeImage {
+    max-width: 800px;
+    max-height: 500px;
+}
+
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: wrap;
+    padding: 15px;
+    /* max-width: 850px; */
+    margin: auto;
+}
+
+#smallFigure{
+    position: sticky;
+    top: 20px;
+}
+
+#htmlRows{    
+    position: sticky;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+figure#large{
+    flex-flow: column;
+}
+
+#ListFont{
+    position: sticky;
+}
+
+footer {
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0px;
+}
